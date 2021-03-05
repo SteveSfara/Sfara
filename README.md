@@ -1,4 +1,4 @@
-# Sfara
+# Steve Sfara
 CodeAppKit
 
 This is my first app creator.
